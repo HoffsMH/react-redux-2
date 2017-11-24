@@ -1,0 +1,8 @@
+{
+  "name": "react-redux-2",
+  "version": "1.0.0",
+  "description": "take 2 react and redux wiring closer to the metal",
+  "main": "index.js",
+  "author": "Matt Hecker",
+  "license": "MIT"
+}
