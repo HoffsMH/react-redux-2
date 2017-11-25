@@ -4,5 +4,8 @@
   "description": "take 2 react and redux wiring closer to the metal",
   "main": "index.js",
   "author": "Matt Hecker",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
 }
