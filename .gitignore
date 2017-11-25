@@ -19,3 +19,4 @@ testem.log
 .DS_Store
 .envrc
 /test_reports
+yarn-error.log
