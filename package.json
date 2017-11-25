@@ -8,7 +8,8 @@
   "scripts": {
     "docker-run": "./script/docker/run.sh",
     "docker-build": "./script/docker/build.sh",
-    "compile": "webpack"
+    "compile": "webpack",
+    "dev-server": "webpack"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -16,6 +17,8 @@
     "babel-preset-latest": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^2.30.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
   },
