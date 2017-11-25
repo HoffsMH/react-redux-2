@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Matt Hecker",
   "license": "MIT",
+  "scripts": {
+    "docker-run": "./script/docker/run.sh",
+    "docker-build": "./script/docker/build.sh"
+  },
   "devDependencies": {
     "webpack": "^3.8.1"
   }
